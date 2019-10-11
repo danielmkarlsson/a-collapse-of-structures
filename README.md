@@ -1,2 +1,2 @@
-# a-collapse-of-structures
+# A collapse of structures
 Code I used when composing this piece
