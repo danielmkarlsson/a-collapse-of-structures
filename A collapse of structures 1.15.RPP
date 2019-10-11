@@ -1,0 +1,3108 @@
+<REAPER_PROJECT 0.1 "5.965/OSX64" 1565909275
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 1
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 5 30 0
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 0
+  ZOOM 1.29090661185618 0 0
+  VZOOMEX 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE "/Users/danielmkarlsson/Documents/wav/A collapse of structures Stereo Mix Aug 16 2019.wav"
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 0 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 0
+  DEFPITCHMODE 589824
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAA==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  MARKER 2 1190.7472335600971 "" 0 0 1 B
+  MARKER 1 3353.9492147354949 "SMOKE IT UP ! ! ! " 0 0 1 B
+  <PROJBAY
+  >
+  <TRACK {D0758A18-0DC9-A541-9E45-031D73C3349B}
+    NAME Convenience
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D0758A18-0DC9-A541-9E45-031D73C3349B}
+    PERF 0
+    AUXRECV 1 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    AUXRECV 2 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    AUXRECV 3 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    AUXRECV 4 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    AUXRECV 5 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    AUXRECV 6 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    AUXRECV 7 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    AUXRECV 8 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    AUXRECV 9 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    AUXRECV 10 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    AUXRECV 11 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    AUXRECV 12 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    AUXRECV 13 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    AUXRECV 14 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    AUXRECV 15 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    AUXRECV 16 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    AUXRECV 17 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {25A36675-23C1-2D43-93FA-A00F8E21BB93}
+    NAME "Synthesis 1"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.25118864315096 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {25A36675-23C1-2D43-93FA-A00F8E21BB93}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 0 0
+    <ITEM
+      POSITION 24.32951149673181
+      SNAPOFFS 0
+      LENGTH 287
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 2 0 0 2 0 1
+      FADEOUT 2 45.764964 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {EA2A4457-AE07-C045-81C6-BB83CF3744D7}
+      IID 7
+      NAME "Staell new brighter post-001.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 26.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BC69B74F-666B-CE43-B269-0D22DC7A8137}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Staell new brighter post-001.wav"
+      >
+    >
+    <ITEM
+      POSITION 458.45573435231677
+      SNAPOFFS 0
+      LENGTH 388
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 2 0.01 0 2 0 1
+      FADEOUT 5 22.503821 0 5 0 0
+      MUTE 0
+      SEL 0
+      IGUID {FF21A61B-4601-0F41-974B-C5857528CC32}
+      IID 17
+      NAME "Staell new brighter post-001.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 407
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {40057EC8-F509-3644-B3F1-8FAB9435B0F9}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Staell new brighter post-001.wav"
+      >
+    >
+    <ITEM
+      POSITION 1134.0529161925951
+      SNAPOFFS 0
+      LENGTH 380
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 0.01 0 4 0 1
+      FADEOUT 2 48.695314 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {C1071906-3963-3644-A86E-B015798D71CC}
+      IID 41
+      NAME "Staell new brighter post-001.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 853.03337932975842
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {860F6B17-88FE-DC44-9363-3E5E18AAE8DA}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Staell new brighter post-001.wav"
+      >
+    >
+    <ITEM
+      POSITION 1589.4626733500359
+      SNAPOFFS 0
+      LENGTH 285
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 35.075397 0 4 0 1
+      FADEOUT 2 0.01 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {37F78536-60AB-384B-8D33-D07C7A82246E}
+      IID 61
+      NAME "Staell new brighter post-001.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 1283.5738327087081
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {03C517C5-9D04-274D-95F9-CB15B580E0F5}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Staell new brighter post-001.wav"
+      >
+    >
+    <ITEM
+      POSITION 2279.9411091406268
+      SNAPOFFS 0
+      LENGTH 331.96989525441995
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 0.01 0 4 0 1
+      FADEOUT 2 0.01 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {5E527A2B-B072-F445-A7FB-AD1D61333F03}
+      IID 75
+      NAME "Staell new brighter post-001.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 1568.5738327087081
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FB241C34-5F27-4443-B697-4AA8B0E230BE}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Staell new brighter post-001.wav"
+      >
+    >
+    <ITEM
+      POSITION 2856.5573086732543
+      SNAPOFFS 0
+      LENGTH 419.56189936839291
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 0.01 0 4 0 1
+      FADEOUT 2 0.01 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {01F7735F-466D-6C42-91E2-8347F9F66E87}
+      IID 85
+      NAME "Staell new brighter post-001.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 1872.4223279662122
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A5FC8E8E-20D8-E54E-B2C5-F53967173A9A}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Staell new brighter post-001.wav"
+      >
+    >
+    <ITEM
+      POSITION 3719.0155956669837
+      SNAPOFFS 0
+      LENGTH 327.42715950007914
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 0.01 0 4 0 1
+      FADEOUT 2 23.696234 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {0BB19C4F-E750-6349-AFB6-9E4F133A698E}
+      IID 104
+      NAME "Staell new brighter post-001.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2291.9842273346039
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {815B9707-6FBF-5D4E-864D-B8FCCF2FB44D}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Staell new brighter post-001.wav"
+      >
+    >
+    <ITEM
+      POSITION 4083.0087236375693
+      SNAPOFFS 0
+      LENGTH 343.78018401363624
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 0.01 0 4 0 1
+      FADEOUT 2 0.01 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {5ECAACA4-10A5-184B-B92D-FF10AF841E95}
+      IID 136
+      NAME "Staell new brighter post-001.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 3366.9934349214227
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C1F02906-6108-FD45-B624-4D361DBE3865}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Staell new brighter post-001.wav"
+      >
+    >
+  >
+  <TRACK {C337AD2B-FD9A-9441-96CC-ABD6ABCA3A8A}
+    NAME "Instruments 1"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.50118723362727 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {C337AD2B-FD9A-9441-96CC-ABD6ABCA3A8A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 0 0
+    <FXCHAIN
+      WNDRECT 32 412 732 356
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <AU "AU: iZotope RX 4 Declicker (iZotope)" "iZotope: iZotope RX 4 Declicker" "" 1635083896 1517171787 1767535728
+        6QMAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAjQIAADw/eG1sIHZlcnNpb249IjEuMCIgZW5jb2Rpbmc9IlVURi04Ij8+CjwhRE9D
+        VFlQRSBwbGlzdCBQVUJMSUMgIi0vL0FwcGxlLy9EVEQgUExJU1QgMS4wLy9FTiIgImh0dHA6Ly93d3cuYXBwbGUuY29tL0RURHMvUHJvcGVydHlMaXN0LTEuMC5kdGQi
+        Pgo8cGxpc3QgdmVyc2lvbj0iMS4wIj4KPGRpY3Q+Cgk8a2V5PmRhdGE8L2tleT4KCTxkYXRhPgoJYzFOREFBSUFBQUIrQUFBQUtnQUFBQUVBQUFBQUFLREFBQUFBUUVB
+        QUFBQUFBQUFBQUFBQUFBQUFBQUNnUUFBQVNFTUEKCUFBQUFBQUFBQUNvQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJB
+        UUFBCglBQUFFQUFBQUFBQUFBQWtBQUFBQUFBQUFBQUFBQUFBSkFBQUFBQUFBQUFBQUFBQUEKCTwvZGF0YT4KCTxrZXk+bWFudWZhY3R1cmVyPC9rZXk+Cgk8aW50ZWdl
+        cj4xNzY3NTM1NzI4PC9pbnRlZ2VyPgoJPGtleT5uYW1lPC9rZXk+Cgk8c3RyaW5nPlVudGl0bGVkPC9zdHJpbmc+Cgk8a2V5PnN1YnR5cGU8L2tleT4KCTxpbnRlZ2Vy
+        PjE1MTcxNzE3ODc8L2ludGVnZXI+Cgk8a2V5PnR5cGU8L2tleT4KCTxpbnRlZ2VyPjE2MzUwODM4OTY8L2ludGVnZXI+Cgk8a2V5PnZlcnNpb248L2tleT4KCTxpbnRl
+        Z2VyPjA8L2ludGVnZXI+CjwvZGljdD4KPC9wbGlzdD4KAQAAAAAAAAAAAA==
+      >
+      FLOATPOS 0 0 0 0
+      FXID {11C0F36B-4E90-9746-B20C-EFA4F741C035}
+      WAK 0
+    >
+    <ITEM
+      POSITION 34.32951149673181
+      SNAPOFFS 0
+      LENGTH 277
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 2 25.149667 0 2 0 1
+      FADEOUT 2 21.689676 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {6C0E0513-2188-6547-90B1-3ABDD52ACC8E}
+      IID 25
+      NAME "Render stems 01.wav"
+      VOLPAN 1 0 5.406314 -1
+      SOFFS 23
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {05462234-611B-8043-BA7D-E0B34BFB3C77}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Render stems 01.wav"
+      >
+    >
+    <ITEM
+      POSITION 457.95573435231677
+      SNAPOFFS 0
+      LENGTH 412.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 2 0.01 0 2 0 1
+      FADEOUT 5 32.949944 0 5 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9F9D0EDF-3E9E-2949-9554-06ADA076F379}
+      IID 18
+      NAME "Render stems 01.wav"
+      VOLPAN 1 0 5.406314 -1
+      SOFFS 393.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3DED3385-6659-5A4D-A690-3D0E60A2781C}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Render stems 01.wav"
+      >
+    >
+    <ITEM
+      POSITION 1134.0529161925951
+      SNAPOFFS 0
+      LENGTH 430.54045337894991
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 0.01 0 4 0 1
+      FADEOUT 2 49.975231 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {632C9D1D-200E-A842-BC68-5A9D09590DF7}
+      IID 42
+      NAME "Render stems 01.wav"
+      VOLPAN 1 0 5.406314 -1
+      SOFFS 853.24508732120307
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {19270AE3-8F84-094D-8885-D390AAC99503}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Render stems 01.wav"
+      >
+    >
+    <ITEM
+      POSITION 1588.6880775189222
+      SNAPOFFS 0
+      LENGTH 285
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 35.075397 0 4 0 1
+      FADEOUT 2 0.01 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {591F9B9A-43B6-754D-8F48-1AB230964E7A}
+      IID 62
+      NAME "Render stems 01.wav"
+      VOLPAN 1 0 5.406314 -1
+      SOFFS 1283.7855407001528
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C3629456-6A78-A94B-95DD-05353E4DE805}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Render stems 01.wav"
+      >
+    >
+    <ITEM
+      POSITION 2280.574538289462
+      SNAPOFFS 0
+      LENGTH 286.82885922116111
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 0.01 0 4 0 1
+      FADEOUT 5 19.831792 0 5 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3A58BFF3-9889-FD48-8A93-D5E20C91007B}
+      IID 76
+      NAME "Render stems 01.wav"
+      VOLPAN 1 0 5.406314 -1
+      SOFFS 1568.7855407001528
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5D39CBA9-985E-1148-980A-4887F4782FB2}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Render stems 01.wav"
+      >
+    >
+    <ITEM
+      POSITION 2852.7422340046865
+      SNAPOFFS 0
+      LENGTH 419.56189936839382
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 0.01 0 4 0 1
+      FADEOUT 2 0.01 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {CE53BDD4-67F0-5E4C-84D6-43FD9413F1AB}
+      IID 86
+      NAME "Render stems 01.wav"
+      VOLPAN 1 0 5.406314 -1
+      SOFFS 1900.7554359545718
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {22595095-2400-D243-95CB-090C5456F5FC}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Render stems 01.wav"
+      >
+    >
+    <ITEM
+      POSITION 3714.993281658014
+      SNAPOFFS 0
+      LENGTH 306.51622347725788
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 40.506583 0 4 0 1
+      FADEOUT 2 24.093442 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {95DA8FAB-FA14-224C-B0C9-469B5A036183}
+      IID 105
+      NAME "Render stems 01.wav"
+      VOLPAN 1 0 5.406314 -1
+      SOFFS 2320.317335322964
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3666BD10-CBB0-B740-91C2-14AA9D797A80}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Render stems 01.wav"
+      >
+    >
+    <ITEM
+      POSITION 4138.6582321949718
+      SNAPOFFS 0
+      LENGTH 301.34176780502821
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 0.01 0 4 0 1
+      FADEOUT 2 0.01 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {57CC03EE-342B-4543-B1FF-0A1522F58387}
+      IID 137
+      NAME "Render stems 01.wav"
+      VOLPAN 1 0 5.406314 -1
+      SOFFS 3395.3265429097828
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B14E1830-B94A-BB48-97F9-899F6256EA72}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Render stems 01.wav"
+      >
+    >
+  >
+  <TRACK {65F3DCB2-43AA-A842-BD17-AEE437D56A6F}
+    NAME "Synthesis 2"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.25118864315096 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {65F3DCB2-43AA-A842-BD17-AEE437D56A6F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 0 0
+    <FXCHAIN
+      WNDRECT 32 412 732 356
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 280.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 2 2.180166 0 2 0 1
+      FADEOUT 2 42.153998 0 2 0 -1
+      MUTE 0
+      SEL 1
+      IGUID {8636FB15-3A03-CD4C-A898-D3F21AF198D7}
+      IID 8
+      NAME "Staell new brighter post-002.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 26.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9F90E471-1253-2842-9D8E-C3999AED4D2C}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Staell new brighter post-002.wav"
+      >
+    >
+    <ITEM
+      POSITION 458.45573435231677
+      SNAPOFFS 0
+      LENGTH 412
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 2 0.01 0 2 0 1
+      FADEOUT 2 35.710919 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {BF9367D5-2473-3F40-82B0-4B479CA54368}
+      IID 19
+      NAME "Staell new brighter post-002.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 400.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1D1ABF3C-D42A-F445-9929-A62002C74360}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Staell new brighter post-002.wav"
+      >
+    >
+    <ITEM
+      POSITION 1134.0529161925951
+      SNAPOFFS 0
+      LENGTH 412
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 0.01 0 4 0 1
+      FADEOUT 2 63.043622 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {177F083C-4620-3A4B-B67B-453C26FC50A3}
+      IID 43
+      NAME "Staell new brighter post-002.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 846.53337932975842
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {21483DA8-15FB-4F4D-A3A8-79D939191921}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Staell new brighter post-002.wav"
+      >
+    >
+    <ITEM
+      POSITION 1589.4626733500359
+      SNAPOFFS 0
+      LENGTH 285
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 35.075397 0 4 0 1
+      FADEOUT 2 0.01 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {599EEEC6-0054-AD40-8E29-E6D7F9FDEC67}
+      IID 63
+      NAME "Staell new brighter post-002.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 1277.0738327087081
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {72ED906E-15A0-7B4E-9034-D781AFA33913}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Staell new brighter post-002.wav"
+      >
+    >
+    <ITEM
+      POSITION 2279.9411091406268
+      SNAPOFFS 0
+      LENGTH 331.96989525441995
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 0.01 0 4 0 1
+      FADEOUT 2 0.01 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {C75CBD47-BF84-F246-BE8F-F94247EF9BCE}
+      IID 77
+      NAME "Staell new brighter post-002.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 1562.0738327087081
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9D4F8048-8CD4-AE41-BFEA-9A83FE874DDA}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Staell new brighter post-002.wav"
+      >
+    >
+    <ITEM
+      POSITION 2856.5573086732543
+      SNAPOFFS 0
+      LENGTH 419.56189936839291
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 0.01 0 4 0 1
+      FADEOUT 2 0.01 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {A42044C6-0945-8C40-89A5-C42D0AD77A40}
+      IID 87
+      NAME "Staell new brighter post-002.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 1894.0437279631271
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {08A68EDD-9912-5F43-BF65-7AE0FFDDA657}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Staell new brighter post-002.wav"
+      >
+    >
+    <ITEM
+      POSITION 3719.0155956669837
+      SNAPOFFS 0
+      LENGTH 320.34552623029231
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 0.01 0 4 0 1
+      FADEOUT 2 29.143645 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {80C17C33-B25D-AF46-96A4-F326D6BFF4D9}
+      IID 106
+      NAME "Staell new brighter post-002.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2313.6056273315189
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {72AA6D86-A349-5F4C-8F47-72F6CBD5A0AC}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Staell new brighter post-002.wav"
+      >
+    >
+    <ITEM
+      POSITION 4083.0087236375693
+      SNAPOFFS 0
+      LENGTH 342.29955966258967
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 0.01 0 4 0 1
+      FADEOUT 2 0.01 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {932C5EF1-B4D3-8643-97E6-F1C6EB6731E0}
+      IID 138
+      NAME "Staell new brighter post-002.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 3388.6148349183377
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {35675C77-CF09-794D-A4E3-1BB37D6A54B2}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Staell new brighter post-002.wav"
+      >
+    >
+  >
+  <TRACK {C7084406-8C03-5C4B-8979-EDDA79BEBE12}
+    NAME "Instruments 2"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.50118723362727 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {C7084406-8C03-5C4B-8979-EDDA79BEBE12}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 0 0
+    <FXCHAIN
+      WNDRECT 32 412 732 356
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <AU "AU: iZotope RX 4 Declicker (iZotope)" "iZotope: iZotope RX 4 Declicker" "" 1635083896 1517171787 1767535728
+        6QMAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAjQIAADw/eG1sIHZlcnNpb249IjEuMCIgZW5jb2Rpbmc9IlVURi04Ij8+CjwhRE9D
+        VFlQRSBwbGlzdCBQVUJMSUMgIi0vL0FwcGxlLy9EVEQgUExJU1QgMS4wLy9FTiIgImh0dHA6Ly93d3cuYXBwbGUuY29tL0RURHMvUHJvcGVydHlMaXN0LTEuMC5kdGQi
+        Pgo8cGxpc3QgdmVyc2lvbj0iMS4wIj4KPGRpY3Q+Cgk8a2V5PmRhdGE8L2tleT4KCTxkYXRhPgoJYzFOREFBSUFBQUIrQUFBQUtnQUFBQUVBQUFBQUFLREFBQUFBUUVB
+        QUFBQUFBQUFBQUFBQUFBQUFBQUNnUUFBQVNFTUEKCUFBQUFBQUFBQUNvQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJB
+        UUFBCglBQUFFQUFBQUFBQUFBQWtBQUFBQUFBQUFBQUFBQUFBSkFBQUFBQUFBQUFBQUFBQUEKCTwvZGF0YT4KCTxrZXk+bWFudWZhY3R1cmVyPC9rZXk+Cgk8aW50ZWdl
+        cj4xNzY3NTM1NzI4PC9pbnRlZ2VyPgoJPGtleT5uYW1lPC9rZXk+Cgk8c3RyaW5nPlVudGl0bGVkPC9zdHJpbmc+Cgk8a2V5PnN1YnR5cGU8L2tleT4KCTxpbnRlZ2Vy
+        PjE1MTcxNzE3ODc8L2ludGVnZXI+Cgk8a2V5PnR5cGU8L2tleT4KCTxpbnRlZ2VyPjE2MzUwODM4OTY8L2ludGVnZXI+Cgk8a2V5PnZlcnNpb248L2tleT4KCTxpbnRl
+        Z2VyPjA8L2ludGVnZXI+CjwvZGljdD4KPC9wbGlzdD4KAQAAAAAAAAAAAA==
+      >
+      FLOATPOS 0 0 0 0
+      FXID {323454B1-8C40-A949-BA60-65B23A71AE37}
+      WAK 0
+    >
+    <ITEM
+      POSITION 10
+      SNAPOFFS 0
+      LENGTH 277
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 2 25.149667 0 2 0 1
+      FADEOUT 2 21.689676 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {79499B37-DF70-EB4A-9193-6476E0DB29AB}
+      IID 26
+      NAME "Render stems 02.wav"
+      VOLPAN 1 0 5.406314 -1
+      SOFFS 23
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7D3F03FB-1067-5144-A5AD-62786F228B36}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Render stems 02.wav"
+      >
+    >
+    <ITEM
+      POSITION 463.95573435231677
+      SNAPOFFS 0
+      LENGTH 406.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 2 0.01 0 2 0 1
+      FADEOUT 5 31.569457 0 5 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C2EC4859-D7E5-424A-B76E-0FF3BBC2F05D}
+      IID 20
+      NAME "Render stems 02.wav"
+      VOLPAN 1 0 5.406314 -1
+      SOFFS 393.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3A039C2C-8974-2348-91C5-581D0FC90B71}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Render stems 02.wav"
+      >
+    >
+    <ITEM
+      POSITION 1129.5529161925951
+      SNAPOFFS 0
+      LENGTH 430.54045337894991
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 0.01 0 4 0 1
+      FADEOUT 2 33.981106 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {E06779D0-6D04-0C43-A558-6EE2094B911E}
+      IID 44
+      NAME "Render stems 02.wav"
+      VOLPAN 1 0 5.406314 -1
+      SOFFS 839.53337932975842
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3810D3A8-A46A-6D45-9AD6-CE17EF0E2428}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Render stems 02.wav"
+      >
+    >
+    <ITEM
+      POSITION 1587.7112762740323
+      SNAPOFFS 0
+      LENGTH 285
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 35.075397 0 4 0 1
+      FADEOUT 2 0.01 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {B8D8BE95-45BD-434F-AD3A-E441556438F4}
+      IID 64
+      NAME "Render stems 02.wav"
+      VOLPAN 1 0 5.406314 -1
+      SOFFS 1270.0738327087081
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CFE824F3-4D6D-414C-8426-09771A530225}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Render stems 02.wav"
+      >
+    >
+    <ITEM
+      POSITION 2281.5162879429167
+      SNAPOFFS 0
+      LENGTH 331.96989525441768
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 0.01 0 4 0 1
+      FADEOUT 2 0.01 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {ADD04735-D3E2-234B-892A-E9846E6E26D0}
+      IID 78
+      NAME "Render stems 02.wav"
+      VOLPAN 1 0 5.406314 -1
+      SOFFS 1555.0738327087081
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {44BFEDFC-8C5A-1B4C-8D5C-5A6908A2521A}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Render stems 02.wav"
+      >
+    >
+    <ITEM
+      POSITION 2849.5692151241888
+      SNAPOFFS 0
+      LENGTH 419.56189936839291
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 0.01 0 4 0 1
+      FADEOUT 2 0.01 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {7CCC9344-BAA0-9848-8D1A-785BF89AFD59}
+      IID 88
+      NAME "Render stems 02.wav"
+      VOLPAN 1 0 5.406314 -1
+      SOFFS 1887.0437279631271
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {60F136E9-0188-1B4A-BFAC-2F4E7D435123}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Render stems 02.wav"
+      >
+    >
+    <ITEM
+      POSITION 3719.3690376506738
+      SNAPOFFS 0
+      LENGTH 322.98815986074624
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 0.01 0 4 0 1
+      FADEOUT 2 24.513346 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {4F3FB7EE-0B11-7D41-B4AC-DEBC0289D614}
+      IID 107
+      NAME "Render stems 02.wav"
+      VOLPAN 1 0 5.406314 -1
+      SOFFS 2306.6056273315189
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1CB4348D-FE71-1E42-827B-40D00DEACDE1}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Render stems 02.wav"
+      >
+    >
+    <ITEM
+      POSITION 4087.9517949404963
+      SNAPOFFS 0
+      LENGTH 325.35991938396637
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 0.01 0 4 0 1
+      FADEOUT 2 0.01 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {026AC401-5DEC-EA47-BF18-79D6FD72A08E}
+      IID 139
+      NAME "Render stems 02.wav"
+      VOLPAN 1 0 5.406314 -1
+      SOFFS 3381.6148349183377
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6468E6CF-DFB4-1B42-9AB6-DFA7276CF14C}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Render stems 02.wav"
+      >
+    >
+  >
+  <TRACK {CA6A1C38-6CD4-ED4D-9025-1C6A7D86630A}
+    NAME "Synthesis 3"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.25118864315096 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {CA6A1C38-6CD4-ED4D-9025-1C6A7D86630A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 0 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 280.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 2 2.155919 0 2 0 1
+      FADEOUT 2 47.932067 0 2 0 -1
+      MUTE 0
+      SEL 1
+      IGUID {C55FFA00-8076-BF4B-8E47-D3FB1D42EAE7}
+      IID 9
+      NAME "Staell new brighter post-003.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 26.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3D09C17E-0AC8-7740-A999-7EFC6625BC8C}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Staell new brighter post-003.wav"
+      >
+    >
+    <ITEM
+      POSITION 458.45573435231677
+      SNAPOFFS 0
+      LENGTH 412
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 2 0.01 0 2 0 1
+      FADEOUT 2 94.259775 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {217A1F7C-4010-8A43-A73E-63A41701C516}
+      IID 21
+      NAME "Staell new brighter post-003.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 400.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3ACD76B6-1C80-924D-A513-CC6F7C980B6F}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Staell new brighter post-003.wav"
+      >
+    >
+    <ITEM
+      POSITION 1134.0529161925951
+      SNAPOFFS 0
+      LENGTH 430.54045337894991
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 0.01 0 4 0 1
+      FADEOUT 2 82.815589 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {165F0F7D-BB5B-8B41-AACA-5402DADEFF71}
+      IID 45
+      NAME "Staell new brighter post-003.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 846.53337932975842
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5EB32A53-2B2F-5B47-B3A7-C5FCD8FA6807}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Staell new brighter post-003.wav"
+      >
+    >
+    <ITEM
+      POSITION 1589.4626733500359
+      SNAPOFFS 0
+      LENGTH 285
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 35.075397 0 4 0 1
+      FADEOUT 2 0.01 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {D6B08764-7348-5B43-B638-4D8CCACBD7E9}
+      IID 65
+      NAME "Staell new brighter post-003.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 1277.0738327087081
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FBEE6EF2-EE01-854D-84E7-CC21752CC611}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Staell new brighter post-003.wav"
+      >
+    >
+    <ITEM
+      POSITION 2279.9411091406268
+      SNAPOFFS 0
+      LENGTH 331.96989525441995
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 0.01 0 4 0 1
+      FADEOUT 2 0.01 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {CDEB7CDC-3BAC-B94B-B773-0E98198EB4FB}
+      IID 79
+      NAME "Staell new brighter post-003.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 1562.0738327087081
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1EFBD4F3-2452-124F-AB67-3183BBD80529}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Staell new brighter post-003.wav"
+      >
+    >
+    <ITEM
+      POSITION 2856.5573086732543
+      SNAPOFFS 0
+      LENGTH 419.56189936839291
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 0.01 0 4 0 1
+      FADEOUT 2 0.01 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {85D74F6F-4B42-5D44-9C0D-5D7088727CA0}
+      IID 89
+      NAME "Staell new brighter post-003.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 1894.0437279631271
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {06502E9A-3C1C-3045-8EC5-5DA99B2B919A}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Staell new brighter post-003.wav"
+      >
+    >
+    <ITEM
+      POSITION 3719.0155956669837
+      SNAPOFFS 0
+      LENGTH 320.61789674066995
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 0.01 0 4 0 1
+      FADEOUT 2 29.688386 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {32FB0984-0A00-424E-B3E1-870D3A178E5D}
+      IID 108
+      NAME "Staell new brighter post-003.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2313.6056273315189
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {717829E1-3911-F247-A405-98FC1046971F}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Staell new brighter post-003.wav"
+      >
+    >
+    <ITEM
+      POSITION 4069.8401028201602
+      SNAPOFFS 0
+      LENGTH 343.76462446473806
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 0.01 0 4 0 1
+      FADEOUT 2 0.01 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {074E32BC-75AD-0546-9932-A3F3D59AB38E}
+      IID 140
+      NAME "Staell new brighter post-003.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 3388.6148349183377
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {79534F9A-FE53-0145-8487-A91CD5A06ED0}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Staell new brighter post-003.wav"
+      >
+    >
+  >
+  <TRACK {B6744976-05E9-DC4F-A261-9736B24171C8}
+    NAME "Instruments 3"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.50118723362727 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B6744976-05E9-DC4F-A261-9736B24171C8}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 0 0
+    <FXCHAIN
+      WNDRECT 221 313 732 356
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <AU "AU: iZotope RX 4 Declicker (iZotope)" "iZotope: iZotope RX 4 Declicker" "" 1635083896 1517171787 1767535728
+        6QMAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAjQIAADw/eG1sIHZlcnNpb249IjEuMCIgZW5jb2Rpbmc9IlVURi04Ij8+CjwhRE9D
+        VFlQRSBwbGlzdCBQVUJMSUMgIi0vL0FwcGxlLy9EVEQgUExJU1QgMS4wLy9FTiIgImh0dHA6Ly93d3cuYXBwbGUuY29tL0RURHMvUHJvcGVydHlMaXN0LTEuMC5kdGQi
+        Pgo8cGxpc3QgdmVyc2lvbj0iMS4wIj4KPGRpY3Q+Cgk8a2V5PmRhdGE8L2tleT4KCTxkYXRhPgoJYzFOREFBSUFBQUIrQUFBQUtnQUFBQUVBQUFBQUFLREFBQUFBUUVB
+        QUFBQUFBQUFBQUFBQUFBQUFBQUNnUUFBQVNFTUEKCUFBQUFBQUFBQUNvQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJB
+        UUFBCglBQUFFQUFBQUFBQUFBQWtBQUFBQUFBQUFBQUFBQUFBSkFBQUFBQUFBQUFBQUFBQUEKCTwvZGF0YT4KCTxrZXk+bWFudWZhY3R1cmVyPC9rZXk+Cgk8aW50ZWdl
+        cj4xNzY3NTM1NzI4PC9pbnRlZ2VyPgoJPGtleT5uYW1lPC9rZXk+Cgk8c3RyaW5nPlVudGl0bGVkPC9zdHJpbmc+Cgk8a2V5PnN1YnR5cGU8L2tleT4KCTxpbnRlZ2Vy
+        PjE1MTcxNzE3ODc8L2ludGVnZXI+Cgk8a2V5PnR5cGU8L2tleT4KCTxpbnRlZ2VyPjE2MzUwODM4OTY8L2ludGVnZXI+Cgk8a2V5PnZlcnNpb248L2tleT4KCTxpbnRl
+        Z2VyPjA8L2ludGVnZXI+CjwvZGljdD4KPC9wbGlzdD4KAQAAAAAAAAAAAA==
+      >
+      FLOATPOS 0 0 0 0
+      FXID {CD56F1C4-9757-F641-9926-A924C821A3E9}
+      WAK 0
+    >
+    <ITEM
+      POSITION 12
+      SNAPOFFS 0
+      LENGTH 269
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 2 16.009674 0 2 0 1
+      FADEOUT 2 23.393768 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {DA24CAAC-B550-7544-AE13-277435532986}
+      IID 27
+      NAME "Render stems 03.wav"
+      VOLPAN 1 0 5.406314 -1
+      SOFFS 31
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1AC03760-25F0-2144-ABD0-3D3811485BD8}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Render stems 03.wav"
+      >
+    >
+    <ITEM
+      POSITION 456.45573435231677
+      SNAPOFFS 0
+      LENGTH 261.82384732586343
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 2 0.01 0 2 0 1
+      FADEOUT 1.1 0.01 0.279582 5 1 0
+      MUTE 0
+      SEL 0
+      IGUID {DAC44035-980D-9144-A7E8-C1FEF52B8260}
+      IID 23
+      NAME "Render stems 03.wav"
+      VOLPAN 1 0 5.406314 -1
+      SOFFS 393.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {06FC266F-93B5-E74A-8B9B-62B4C3B20CFE}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Render stems 03.wav"
+      >
+    >
+    <ITEM
+      POSITION 718
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.279582 2 1 0
+      FADEOUT 1.1 0.01 0.213784 5 1 0
+      MUTE 0
+      SEL 0
+      IGUID {68215F5F-E812-F44B-B2D7-E1208542A05B}
+      IID 374
+      NAME "Render stems 03.wav"
+      VOLPAN 1 0 5.406314 -1
+      SOFFS 654.04426564768323
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {483D974D-B5BA-FB49-AE73-E5E8B050D059}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Render stems 03.wav"
+      >
+    >
+    <ITEM
+      POSITION 718.28621634301135
+      SNAPOFFS 0
+      LENGTH 15.71378365698865
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.213784 2 1 0
+      FADEOUT 1.1 0.01 0.584499 5 1 0
+      MUTE 0
+      SEL 0
+      IGUID {E58682CC-AF60-6442-AF04-DF774F953768}
+      IID 376
+      NAME "Render stems 03.wav"
+      VOLPAN 1 0 5.406314 -1
+      SOFFS 655.33048199069458
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E350CCE5-0F1E-6B4E-88A4-21727C9D42DC}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Render stems 03.wav"
+      >
+    >
+    <ITEM
+      POSITION 733.41550080416243
+      SNAPOFFS 0
+      LENGTH 1.47171981475265
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.584499 2 1 0
+      FADEOUT 1.1 0.01 0.387221 5 1 0
+      MUTE 0
+      SEL 0
+      IGUID {DD1BDE02-CC30-F841-8FFD-8E1B288117F8}
+      IID 381
+      NAME "Render stems 03.wav"
+      VOLPAN 1 0 5.406314 -1
+      SOFFS 669.45976645184578
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AB135180-8E26-9544-B2AD-B9730150F72B}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Render stems 03.wav"
+      >
+    >
+    <ITEM
+      POSITION 734.5
+      SNAPOFFS 0
+      LENGTH 135.95573435231677
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.387221 2 1 0
+      FADEOUT 5 29.117406 0 5 0 0
+      MUTE 0
+      SEL 0
+      IGUID {951E4EC7-7D4E-C647-BB8F-CF56E2C1735C}
+      IID 379
+      NAME "Render stems 03.wav"
+      VOLPAN 1 0 5.406314 -1
+      SOFFS 671.54426564768323
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {06481B96-89A0-A844-8ED7-5FE527B4D711}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Render stems 03.wav"
+      >
+    >
+    <ITEM
+      POSITION 1135.611107264943
+      SNAPOFFS 0
+      LENGTH 430.54045337895059
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 0.01 0 4 0 1
+      FADEOUT 2 33.88173 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {573B8174-78F8-C740-AC11-076113D2DDA1}
+      IID 46
+      NAME "Render stems 03.wav"
+      VOLPAN 1 0 5.406314 -1
+      SOFFS 839.53337932975842
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {64899EEC-5A4E-A24F-979C-EAA16C661EF5}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Render stems 03.wav"
+      >
+    >
+    <ITEM
+      POSITION 1589.3239814277911
+      SNAPOFFS 0
+      LENGTH 285
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 35.075397 0 4 0 1
+      FADEOUT 2 0.01 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {BAD34A7B-F49D-764F-A28D-DCBEBB055E78}
+      IID 66
+      NAME "Render stems 03.wav"
+      VOLPAN 1 0 5.406314 -1
+      SOFFS 1270.0738327087081
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0BEFD091-E742-6F44-A4A0-09A27B7A0795}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Render stems 03.wav"
+      >
+    >
+    <ITEM
+      POSITION 2278.8325320583585
+      SNAPOFFS 0
+      LENGTH 331.96989525441768
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 0.01 0 4 0 1
+      FADEOUT 2 0.01 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {DE9F8234-D03F-414E-9A15-4C279AAFB7E1}
+      IID 80
+      NAME "Render stems 03.wav"
+      VOLPAN 1 0 5.406314 -1
+      SOFFS 1555.0738327087081
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B530B526-7837-FC4D-A9FE-7313F9021CAF}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Render stems 03.wav"
+      >
+    >
+    <ITEM
+      POSITION 2863.7511404156317
+      SNAPOFFS 0
+      LENGTH 419.56189936839291
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 0.01 0 4 0 1
+      FADEOUT 2 0.01 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {2817DDCC-8BA0-6745-97DD-0D56AF3249A0}
+      IID 90
+      NAME "Render stems 03.wav"
+      VOLPAN 1 0 5.406314 -1
+      SOFFS 1887.0437279631271
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {278D2ACE-C517-4845-A7F1-F8221457F39F}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Render stems 03.wav"
+      >
+    >
+    <ITEM
+      POSITION 3720.3274635979933
+      SNAPOFFS 0
+      LENGTH 321.4849928926742
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 0.01 0 4 0 1
+      FADEOUT 2 25.330457 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {4506C7AC-E62F-5F42-B39C-6B37C0D19094}
+      IID 109
+      NAME "Render stems 03.wav"
+      VOLPAN 1 0 5.406314 -1
+      SOFFS 2306.6056273315189
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E316AC5C-54CC-0043-8FE1-353A73726A2C}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Render stems 03.wav"
+      >
+    >
+    <ITEM
+      POSITION 4127
+      SNAPOFFS 0
+      LENGTH 287.9721211002352
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 2 2.899509 0 4 0 1
+      FADEOUT 2 0.01 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {D7EB013A-4525-D74A-A349-B0C5C08FCB2A}
+      IID 450
+      NAME "Render stems 03.wav"
+      VOLPAN 1 0 5.406314 -1
+      SOFFS 3429.9620612057092
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {642E0223-E3A5-BB46-AEE5-B84E0805B684}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Render stems 03.wav"
+      >
+    >
+  >
+  <TRACK {997468F6-D870-8944-815A-4A090C5EECCA}
+    NAME "Synthesis 4"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.25118864315096 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {997468F6-D870-8944-815A-4A090C5EECCA}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 0 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 280.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 2 2.180166 0 2 0 1
+      FADEOUT 2 36.375929 0 2 0 -1
+      MUTE 0
+      SEL 1
+      IGUID {ADBBF8A5-F1C2-F04A-B5CA-C9A2EBEAFA87}
+      IID 10
+      NAME "Staell new brighter post-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 26.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {52800F3F-25B4-4044-804A-21045484909A}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Staell new brighter post-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 458.45573435231677
+      SNAPOFFS 0
+      LENGTH 412
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 2 0.01 0 2 0 1
+      FADEOUT 2 33.828436 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {B82B2CA5-4595-4A43-982F-E6F981478547}
+      IID 22
+      NAME "Staell new brighter post-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 400.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0AAA6E78-5D9E-DF40-8B7E-8883C6FAE3B4}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Staell new brighter post-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 1134.0529161925951
+      SNAPOFFS 0
+      LENGTH 430.54045337894991
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 0.01 0 4 0 1
+      FADEOUT 2 82.815589 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {C381CAA2-AEEA-2A43-8D90-C968CDC93099}
+      IID 47
+      NAME "Staell new brighter post-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 846.53337932975842
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5AAB8B62-A77C-F940-95A7-7F4CB63F15B8}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Staell new brighter post-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 1589.4626733500359
+      SNAPOFFS 0
+      LENGTH 285
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 35.075397 0 4 0 1
+      FADEOUT 2 0.01 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {B81B1C10-0F89-884A-95D2-FD91F396D83A}
+      IID 67
+      NAME "Staell new brighter post-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 1277.0738327087081
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3778CE40-809E-2C41-8F69-F993345DCA01}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Staell new brighter post-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 2279.9411091406268
+      SNAPOFFS 0
+      LENGTH 331.96989525441995
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 0.01 0 4 0 1
+      FADEOUT 2 0.01 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {A3BB392C-0A28-494C-9EA1-3EE5D2A71841}
+      IID 81
+      NAME "Staell new brighter post-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 1562.0738327087081
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7E4D1840-F43C-E74C-AFF9-1AAD031CBABB}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Staell new brighter post-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 2856.5573086732543
+      SNAPOFFS 0
+      LENGTH 419.56189936839291
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 0.01 0 4 0 1
+      FADEOUT 2 0.01 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {E89B3F9D-EC98-1E4F-8F79-594F3BAE466A}
+      IID 91
+      NAME "Staell new brighter post-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 1894.0437279631271
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A3D2DCA1-C00A-7441-8A67-EAD48CC62F36}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Staell new brighter post-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 3719.0155956669837
+      SNAPOFFS 0
+      LENGTH 315.98759806427188
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 0.01 0 4 0 1
+      FADEOUT 2 26.41994 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {97F62DC3-F4B4-1940-A658-5D62ABF16996}
+      IID 110
+      NAME "Staell new brighter post-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2313.6056273315189
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8FCB6892-3188-BF4E-A703-9AA1B1ECA8B0}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Staell new brighter post-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 4069.8401028201602
+      SNAPOFFS 0
+      LENGTH 337.31833933528151
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 0.01 0 4 0 1
+      FADEOUT 2 0.01 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {F410D6F8-B7F0-A74E-BD3D-1993625CB96B}
+      IID 142
+      NAME "Staell new brighter post-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 3388.6148349183377
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A37CB376-D74B-1F4A-B70A-45574DC6B7A3}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Staell new brighter post-004.wav"
+      >
+    >
+  >
+  <TRACK {BBBCF90F-780F-4449-8D39-D40F6651FA2B}
+    NAME "Instruments 4"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.50118723362727 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {BBBCF90F-780F-4449-8D39-D40F6651FA2B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 0 0
+    <FXCHAIN
+      WNDRECT 32 412 732 356
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <AU "AU: iZotope RX 4 Declicker (iZotope)" "iZotope: iZotope RX 4 Declicker" "" 1635083896 1517171787 1767535728
+        6QMAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAjQIAADw/eG1sIHZlcnNpb249IjEuMCIgZW5jb2Rpbmc9IlVURi04Ij8+CjwhRE9D
+        VFlQRSBwbGlzdCBQVUJMSUMgIi0vL0FwcGxlLy9EVEQgUExJU1QgMS4wLy9FTiIgImh0dHA6Ly93d3cuYXBwbGUuY29tL0RURHMvUHJvcGVydHlMaXN0LTEuMC5kdGQi
+        Pgo8cGxpc3QgdmVyc2lvbj0iMS4wIj4KPGRpY3Q+Cgk8a2V5PmRhdGE8L2tleT4KCTxkYXRhPgoJYzFOREFBSUFBQUIrQUFBQUtnQUFBQUVBQUFBQUFLREFBQUFBUUVB
+        QUFBQUFBQUFBQUFBQUFBQUFBQUNnUUFBQVNFTUEKCUFBQUFBQUFBQUNvQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJB
+        UUFBCglBQUFFQUFBQUFBQUFBQWtBQUFBQUFBQUFBQUFBQUFBSkFBQUFBQUFBQUFBQUFBQUEKCTwvZGF0YT4KCTxrZXk+bWFudWZhY3R1cmVyPC9rZXk+Cgk8aW50ZWdl
+        cj4xNzY3NTM1NzI4PC9pbnRlZ2VyPgoJPGtleT5uYW1lPC9rZXk+Cgk8c3RyaW5nPlVudGl0bGVkPC9zdHJpbmc+Cgk8a2V5PnN1YnR5cGU8L2tleT4KCTxpbnRlZ2Vy
+        PjE1MTcxNzE3ODc8L2ludGVnZXI+Cgk8a2V5PnR5cGU8L2tleT4KCTxpbnRlZ2VyPjE2MzUwODM4OTY8L2ludGVnZXI+Cgk8a2V5PnZlcnNpb248L2tleT4KCTxpbnRl
+        Z2VyPjA8L2ludGVnZXI+CjwvZGljdD4KPC9wbGlzdD4KAQAAAAAAAAAAAA==
+      >
+      FLOATPOS 0 0 0 0
+      FXID {ACE297F8-3613-6C4F-BEF9-129F653CD2B0}
+      WAK 0
+    >
+    <ITEM
+      POSITION 1.19621635443718
+      SNAPOFFS 0
+      LENGTH 286.99999999999983
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 2 14.905659 0 2 0 1
+      FADEOUT 2 27.70095 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {2E131936-87F7-8148-A93D-60E3C156C01A}
+      IID 28
+      NAME "Render stems 04.wav"
+      VOLPAN 1 0 5.406314 -1
+      SOFFS 13
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {457C0D36-85EB-4948-A952-8FF4F7838C56}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Render stems 04.wav"
+      >
+    >
+    <ITEM
+      POSITION 455.28995513423712
+      SNAPOFFS 0
+      LENGTH 415.16577921807965
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 2 0.01 0 2 0 1
+      FADEOUT 5 21.03658 0 5 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F45D7DE6-C97F-2F4E-B894-B5D5FFED2C25}
+      IID 24
+      NAME "Render stems 04.wav"
+      VOLPAN 1 0 5.406314 -1
+      SOFFS 393.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {05E99A84-B0F1-A24D-9A90-45278BE5FBDF}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Render stems 04.wav"
+      >
+    >
+    <ITEM
+      POSITION 1125.5084849566056
+      SNAPOFFS 0
+      LENGTH 430.540453378949
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 0.01 0 4 0 1
+      FADEOUT 2 34.862728 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {1119325F-811F-954B-8410-C039CE0F5036}
+      IID 48
+      NAME "Render stems 04.wav"
+      VOLPAN 1 0 5.406314 -1
+      SOFFS 839.53337932975842
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {58B64F60-C133-F441-BD37-577173319082}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Render stems 04.wav"
+      >
+    >
+    <ITEM
+      POSITION 1587.5548976722732
+      SNAPOFFS 0
+      LENGTH 265.44510232772677
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 35.075397 0 4 0 1
+      FADEOUT 2 16.398754 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {8A6D01C5-9253-804A-BA76-61B720745571}
+      IID 68
+      NAME "Render stems 04.wav"
+      VOLPAN 1 0 5.406314 -1
+      SOFFS 1270.0738327087081
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E88A1E6B-0E6E-A54A-A314-788A3C7D5A2E}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Render stems 04.wav"
+      >
+    >
+    <ITEM
+      POSITION 2279.0101575217609
+      SNAPOFFS 0
+      LENGTH 331.96989525441722
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 0.01 0 4 0 1
+      FADEOUT 2 0.01 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {D4E2A0E7-3A0A-CC4B-B3BC-74EE021655C7}
+      IID 82
+      NAME "Render stems 04.wav"
+      VOLPAN 1 0 5.406314 -1
+      SOFFS 1555.0738327087081
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F3BF20E6-C693-3945-9ADF-6B0F0E8959D4}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Render stems 04.wav"
+      >
+    >
+    <ITEM
+      POSITION 2851.0155956669837
+      SNAPOFFS 0
+      LENGTH 419.56189936839291
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 0.01 0 4 0 1
+      FADEOUT 2 0.01 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {1C067374-FE49-BF49-903B-47C06B9E61B1}
+      IID 92
+      NAME "Render stems 04.wav"
+      VOLPAN 1 0 5.406314 -1
+      SOFFS 1887.0437279631271
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CB9792D8-4E90-D241-91F3-9F05D58ADE2B}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Render stems 04.wav"
+      >
+    >
+    <ITEM
+      POSITION 3717.3854879225469
+      SNAPOFFS 0
+      LENGTH 310.23156776550604
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 0.01 0 4 0 1
+      FADEOUT 2 12.496909 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {84E87A3F-F8F2-ED46-8FB1-C366B61F6F05}
+      IID 111
+      NAME "Render stems 04.wav"
+      VOLPAN 1 0 5.406314 -1
+      SOFFS 2306.6056273315189
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FF0C7450-EBE9-6543-A4DA-9986A2FE1712}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Render stems 04.wav"
+      >
+    >
+    <ITEM
+      POSITION 4092.5566895625989
+      SNAPOFFS 0
+      LENGTH 314.79709456646469
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 0.01 0 4 0 1
+      FADEOUT 2 0.01 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {AA716EAF-40B8-7947-9A6B-A58B52D4C794}
+      IID 143
+      NAME "Render stems 04.wav"
+      VOLPAN 1 0 5.406314 -1
+      SOFFS 3381.6148349183377
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {35618D66-9FFC-ED4B-8691-8C77434CD2DF}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/Render stems 04.wav"
+      >
+    >
+  >
+  <TRACK {B15133F2-FBC8-594D-AF8C-07B368329F48}
+    NAME "QDM elec redux"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.35481338923358 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B15133F2-FBC8-594D-AF8C-07B368329F48}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 0 0
+    <FXCHAIN
+      WNDRECT 167 4 732 356
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 2880.8947165532882
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 2 2.180166 0 2 0 1
+      FADEOUT 2 0.01 0 2 0 -1
+      MUTE 0
+      SEL 1
+      IGUID {78EB9DAF-4BF5-1741-AABB-948456A162ED}
+      IID 415
+      NAME "qdm elec redux without clicks entire.wav"
+      VOLPAN 1 0 1.808321 -1
+      SOFFS 13
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {869F44B7-549A-5541-A29D-0FDCC799DE35}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/qdm elec redux without clicks entire.wav"
+      >
+    >
+  >
+  <TRACK {B80530DA-7635-1B4E-81C7-823659B3E5F7}
+    NAME "Noise swell"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.2985382618918 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B80530DA-7635-1B4E-81C7-823659B3E5F7}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 0 0
+    <FXCHAIN
+      WNDRECT 147 4 949 542
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 1166.5
+      SNAPOFFS 0
+      LENGTH 4.01823129251693
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 2 0.01 0 2 0 1
+      FADEOUT 2 0.01 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {0B65D1DE-0025-0C4A-8766-00093D403700}
+      IID 34
+      NAME "Noise swell.wav"
+      VOLPAN 1 0 2.019212 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9B455F9B-F3B6-3F44-8583-184417C73AFC}
+      <SOURCE WAVE
+        FILE "/Users/danielmkarlsson/Documents/wav/Noise swell.wav"
+      >
+    >
+  >
+  <TRACK {78969B30-DD97-0642-BA58-1C5EACB685AD}
+    NAME "QDM instr sum"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.35481338923358 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {78969B30-DD97-0642-BA58-1C5EACB685AD}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 0 0
+    <ITEM
+      POSITION 289.00390076728939
+      SNAPOFFS 0
+      LENGTH 216
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 39.638843 0 4 0 1
+      FADEOUT 5 65.784139 0 5 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B3D55A0A-A1B6-D440-A95F-5291A28721C3}
+      IID 11
+      NAME "QDM instr sum.wav"
+      VOLPAN 1 0 1.672076 -1
+      SOFFS 100.39643667094174
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3D7F3887-E5B2-6B44-9E1E-820D92D3FF35}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/QDM instr sum.wav"
+      >
+    >
+    <ITEM
+      POSITION 882.63722707892475
+      SNAPOFFS 0
+      LENGTH 287.88100469785377
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 41.175572 0 4 0 1
+      FADEOUT 5 12.132571 0 5 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2D62EEDD-1CD1-1E4B-BE7D-1F69B7BED559}
+      IID 31
+      NAME "QDM instr sum.wav"
+      VOLPAN 1 0 1.868179 -1
+      SOFFS 340.11899530214623
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DFBA49F3-C053-F046-B236-61C85FA11FFD}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/QDM instr sum.wav"
+      >
+    >
+    <ITEM
+      POSITION 1521.3096249562147
+      SNAPOFFS 0
+      LENGTH 132.15304839382111
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 44.127352 0 4 0 1
+      FADEOUT 5 23.737071 0 5 0 0
+      MUTE 0
+      SEL 0
+      IGUID {05E4E983-02A1-D045-B8ED-A7D3C6BF2E81}
+      IID 70
+      NAME "QDM instr sum.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 819.74894170106677
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FC33E216-8FD1-A441-8C14-2F02B9D314D8}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/QDM instr sum.wav"
+      >
+    >
+    <ITEM
+      POSITION 1823.8962923945799
+      SNAPOFFS 0
+      LENGTH 476.9766705731106
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 73.584914 0 4 0 1
+      FADEOUT 5 2.254844 0 5 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4C70B16B-5151-974C-B4E1-924A34F4A98B}
+      IID 72
+      NAME "QDM instr sum.wav"
+      VOLPAN 0.7 0 2.062519 -1
+      SOFFS 961.69582765118298
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AB7EA52F-5D3C-7F44-AFFB-F4140239FBCD}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/QDM instr sum.wav"
+      >
+    >
+    <ITEM
+      POSITION 2590.8605638383347
+      SNAPOFFS 0
+      LENGTH 154.52281793015572
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 5 37.417137 0 5 0 0
+      FADEOUT 2 34.10807 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {BD27933E-68B6-CE4C-8D27-673B9993C687}
+      IID 96
+      NAME "QDM instr sum.wav"
+      VOLPAN 0.5 0 2.729528 -1
+      SOFFS 2159.0960121598464
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {41A692A4-A25D-4E4F-80A5-F9A69C5EEC43}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/QDM instr sum.wav"
+      >
+    >
+  >
+  <TRACK {A6A4B32D-E26C-4F46-BAC4-D39AF24D5C95}
+    NAME "QDM ens subset 1"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.35481338923358 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A6A4B32D-E26C-4F46-BAC4-D39AF24D5C95}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 0 0
+    <ITEM
+      POSITION 289
+      SNAPOFFS 0
+      LENGTH 236.39643990929699
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 45.394676 0 4 0 1
+      FADEOUT 2 0.01 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {487ED6FA-6083-FD42-9529-E7127119B861}
+      IID 2
+      NAME "First sour instr dry.wav"
+      VOLPAN 0.7 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3A169895-C4A2-4947-AED2-306164273161}
+      <SOURCE WAVE
+        FILE "/Users/danielmkarlsson/Documents/wav/First sour instr dry.wav"
+      >
+    >
+    <ITEM
+      POSITION 865
+      SNAPOFFS 0
+      LENGTH 303
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 2 1.357113 0 2 0 1
+      FADEOUT 2 1.494229 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {55A319EB-43C2-A64F-8828-2F93F65A10FC}
+      IID 239
+      NAME "Second sour ensmble subset.wav"
+      VOLPAN 0.7 0 1.191592 -1
+      SOFFS 14
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8F48DE03-BFE6-E24D-ADBE-373B2B0BB10C}
+      <SOURCE WAVE
+        FILE "/Users/danielmkarlsson/Documents/wav/Second sour ensmble subset.wav"
+      >
+    >
+    <ITEM
+      POSITION 1521.3096249562223
+      SNAPOFFS 0
+      LENGTH 152.15303854875287
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 8.146019 0 4 0 1
+      FADEOUT 5 44.210006 0 5 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5FF99CCA-4821-9441-AA05-6E04A490A120}
+      IID 270
+      NAME "Third sour ensemble subset.wav"
+      VOLPAN 0.684211 0 1.342158 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A192B13F-1A26-8744-B1AE-D706CC602E2C}
+      <SOURCE WAVE
+        FILE "/Users/danielmkarlsson/Documents/wav/Third sour ensemble subset.wav"
+      >
+    >
+    <ITEM
+      POSITION 1826
+      SNAPOFFS 0
+      LENGTH 475
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 2 27.708714 0 2 0 1
+      FADEOUT 2 45.430382 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {BCC2AED2-DEC3-6042-9FAC-6472D2FD89E6}
+      IID 306
+      NAME "Fourth sour high organ.wav"
+      VOLPAN 0.697368 0 1 -1
+      SOFFS 2.10370760542014
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {377AA8A7-B2ED-1E4C-89DA-227F86C440D6}
+      <SOURCE WAVE
+        FILE "/Users/danielmkarlsson/Documents/wav/Fourth sour high organ.wav"
+      >
+    >
+    <ITEM
+      POSITION 2590.8605638383347
+      SNAPOFFS 0
+      LENGTH 162.02961451247165
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 5 31.335586 0 5 0 0
+      FADEOUT 2 9.654876 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {F748F7EF-55AC-3B45-B8D0-243AE79A46F3}
+      IID 317
+      NAME "Fifth sour ensemble subset 1.wav"
+      VOLPAN 0.5 0 1.496627 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7DF6B9C1-427F-2943-B97C-E7130ED5DD1C}
+      <SOURCE WAVE
+        FILE "/Users/danielmkarlsson/Documents/wav/Fifth sour ensemble subset 1.wav"
+      >
+    >
+  >
+  <TRACK {6AFD9BAC-6EE8-354F-8BA0-4AAE85B5137C}
+    NAME "QDM ens subset 2"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.35481338923358 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {6AFD9BAC-6EE8-354F-8BA0-4AAE85B5137C}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 0 0
+    <FXCHAIN
+      WNDRECT 32 381 724 387
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 289.00390076728939
+      SNAPOFFS 0
+      LENGTH 195
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 47.642929 0 4 0 1
+      FADEOUT 2 0.01 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {EE6B3D70-6CC2-DB4C-B89C-13BC6BD4BB43}
+      IID 3
+      NAME "Strings first sour.wav"
+      VOLPAN 0.6 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8B12D0F8-4A00-7C4D-86BD-7E8A576DACE1}
+      <SOURCE WAVE
+        FILE "/Users/danielmkarlsson/Documents/wav/Strings first sour.wav"
+      >
+    >
+    <ITEM
+      POSITION 851
+      SNAPOFFS 0
+      LENGTH 293.60356009070301
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 5 54.099316 0 5 0 0
+      FADEOUT 2 8.363336 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {BC1970BA-AF0B-CF4D-AFBC-7947C8D69D37}
+      IID 50
+      NAME "Second sour Piano.wav"
+      VOLPAN 0.6 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {50D9D114-D6A7-C845-9F1E-0883E9048979}
+      <SOURCE WAVE
+        FILE "/Users/danielmkarlsson/Documents/wav/Second sour Piano.wav"
+      >
+    >
+    <ITEM
+      POSITION 1521.3096249562147
+      SNAPOFFS 0
+      LENGTH 152.15303854875287
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 2 0.01 0 2 0 1
+      FADEOUT 2 0.01 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {DB303E56-8E0B-9E48-B015-1A25C8CD2D9A}
+      IID 268
+      NAME "Third sour strings.wav"
+      VOLPAN 0.671053 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {08206538-4C96-244E-A51E-6DF9DFC51E3A}
+      <SOURCE WAVE
+        FILE "/Users/danielmkarlsson/Documents/wav/Third sour strings.wav"
+      >
+    >
+    <ITEM
+      POSITION 1823.8962923945799
+      SNAPOFFS 0
+      LENGTH 476.9766705731106
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 2 30.596953 0 2 0 1
+      FADEOUT 2 33.046222 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {DC521F7F-DD05-514C-B0BE-46AD60876D14}
+      IID 305
+      NAME "Fourth sour low organ.wav"
+      VOLPAN 0.684211 0 6.768865 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9251066B-8BFF-8E45-AACB-365769F82864}
+      <SOURCE WAVE
+        FILE "/Users/danielmkarlsson/Documents/wav/Fourth sour low organ.wav"
+      >
+    >
+    <ITEM
+      POSITION 2590.8605638383347
+      SNAPOFFS 0
+      LENGTH 162.02961451247165
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 5 31.335586 0 5 0 0
+      FADEOUT 2 8.809599 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {233E5FB2-982A-E441-A694-BBC78CEAB249}
+      IID 318
+      NAME "Fifth sour ensemble subset 2.wav"
+      VOLPAN 0.5 0 1.428114 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F5E72153-8183-5643-A09A-5225E5FE4725}
+      <SOURCE WAVE
+        FILE "/Users/danielmkarlsson/Documents/wav/Fifth sour ensemble subset 2.wav"
+      >
+    >
+  >
+  <TRACK {E5FBD58A-E306-4A4F-97A6-96280C158A70}
+    NAME "QDM ens subset 1 X"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E5FBD58A-E306-4A4F-97A6-96280C158A70}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 0 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0.35481339 0
+      PT 3212.641993 0.35481339 0
+      PT 3232.82620948 0.34665019 0
+      PT 3232.82670948 0.35481339 0
+      PT 3412.18421648 0.35481339 2
+      PT 3488.18421648 0.12481339 0 0 1
+      PT 3768.33623329 0.12481339 0
+      PT 3768.33673329 0.13007104 0
+      PT 3781.33673329 0.12481339 0
+    >
+    <ITEM
+      POSITION 2691
+      SNAPOFFS 0
+      LENGTH 215.7680498866207
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 77.357244 0 4 0 1
+      FADEOUT 2 52.962923 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {CD96F8F7-5863-BF4A-B152-7215C005411E}
+      IID 339
+      NAME "Sixth sour ensemble subset 1.wav"
+      VOLPAN 0.35 0 1.816505 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1F8487FB-B3E3-C540-A1E4-C9B6E027ED54}
+      <SOURCE WAVE
+        FILE "/Users/danielmkarlsson/Documents/wav/Sixth sour ensemble subset 1.wav"
+      >
+    >
+    <ITEM
+      POSITION 3232.8267094843927
+      SNAPOFFS 0
+      LENGTH 535.50952380952367
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 136.015655 0 4 0 1
+      FADEOUT 4 76.120627 0 4 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {E3B06895-DC7F-464B-8BE3-018A36AE4636}
+      IID 351
+      NAME "Seventh sour ensemble subset 1.wav"
+      VOLPAN 1 0 1.412402 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {48BEC02A-C586-614E-A44F-350F1621FBBF}
+      <SOURCE WAVE
+        FILE "/Users/danielmkarlsson/Documents/wav/Seventh sour ensemble subset 1.wav"
+      >
+    >
+    <ITEM
+      POSITION 3997.8827351677533
+      SNAPOFFS 0
+      LENGTH 141.0290476190462
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 2 0.01 0 2 0 1
+      FADEOUT 2 40.060884 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {81A8F654-32D7-0041-9FAB-301C3F2C9EC3}
+      IID 362
+      NAME "Eight sour ensemble subset 1.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {71DBCE29-35D7-8442-A7A3-31E3FACB86CC}
+      <SOURCE WAVE
+        FILE "/Users/danielmkarlsson/Documents/wav/Eight sour ensemble subset 1.wav"
+      >
+    >
+  >
+  <TRACK {E34CD5E4-277A-C144-862A-07687880A0C9}
+    NAME "QDM ens subset 2 X"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E34CD5E4-277A-C144-862A-07687880A0C9}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 0 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0.35481339 0
+      PT 3212.641993 0.35481339 0
+      PT 3232.82620948 0.33866758 0
+      PT 3232.82670948 0.35481339 0
+      PT 3408.18421648 0.35481339 0
+      PT 3416.18421648 0.14 0
+      PT 3436.18421648 0.14 0 0 1
+      PT 3468.18421648 0.14 0
+      PT 3468.18471648 0.15039899 0
+      PT 3481.18471648 0.14 0
+    >
+    <FXCHAIN
+      WNDRECT 32 381 724 387
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 2691
+      SNAPOFFS 0
+      LENGTH 215.7680498866207
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 78.339403 0 4 0 1
+      FADEOUT 2 53.454003 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {C226F2FC-DEC7-8648-A569-C13CE5F8FBD3}
+      IID 340
+      NAME "Sixth sour ensemble subset 2.wav"
+      VOLPAN 0.55 0 1.233476 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FE1DE289-2F82-994C-BE99-78A07DBE0FAE}
+      <SOURCE WAVE
+        FILE "/Users/danielmkarlsson/Documents/wav/Sixth sour ensemble subset 2.wav"
+      >
+    >
+    <ITEM
+      POSITION 3232.8267094844141
+      SNAPOFFS 0
+      LENGTH 235.3575069999788
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 119.364384 0 4 0 1
+      FADEOUT 4 53.85318 0 4 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {C91E7BC2-B10E-574B-BB2C-64318E9176B5}
+      IID 439
+      NAME "Replacement subset instr.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CFA0F071-7AF2-4846-B91A-E03CE8B16F81}
+      <SOURCE WAVE
+        FILE "/Users/danielmkarlsson/Documents/wav/Replacement subset instr.wav"
+      >
+    >
+    <ITEM
+      POSITION 3997.8827351677533
+      SNAPOFFS 0
+      LENGTH 141.02904761904801
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 2 0.01 0 2 0 1
+      FADEOUT 2 0.01 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {9F1386EE-A1D8-2A4C-A601-A9E31C7E097A}
+      IID 363
+      NAME "Eight sour ensemble subset 2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0E279642-5FC6-224E-9723-FC6CD4DA76AE}
+      <SOURCE WAVE
+        FILE "/Users/danielmkarlsson/Documents/wav/Eight sour ensemble subset 2.wav"
+      >
+    >
+  >
+  <TRACK {3D64756A-9CAE-284F-A9EA-D355E255774C}
+    NAME "QDM elec redux"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.35481338923358 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {3D64756A-9CAE-284F-A9EA-D355E255774C}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 0 0
+    <FXCHAIN
+      WNDRECT 32 226 949 542
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <AU "AU: FF Pro-Q 2 (FabFilter)" "FabFilter: FF Pro-Q 2" "" 1635085670 1179726448 1180787270
+        6QMAAAAAAAAEAAAAAQAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAEEKAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5n
+        PSJVVEYtOCI/Pgo8IURPQ1RZUEUgcGxpc3QgUFVCTElDICItLy9BcHBsZS8vRFREIFBMSVNUIDEuMC8vRU4iICJodHRwOi8vd3d3LmFwcGxlLmNvbS9EVERzL1Byb3Bl
+        cnR5TGlzdC0xLjAuZHRkIj4KPHBsaXN0IHZlcnNpb249IjEuMCI+CjxkaWN0PgoJPGtleT5GYWJGaWx0ZXJGbGFnczwva2V5PgoJPGludGVnZXI+MTwvaW50ZWdlcj4K
+        CTxrZXk+ZGF0YTwva2V5PgoJPGRhdGE+CglBQUFBQUFBQUFBQUFBQUMrQUFBQUFEK0FBQUFBQUFBQlFMU2FlQUFBQUFMQXdBQUFBQUFBQXo2c2NtMEFBQUFFUDRBQQoJ
+        QUFBQUFBVS9nQUFBQUFBQUJrQUFBQUFBQUFBSFA0QUFBQUFBQUFoQkdRY3FBQUFBQ1FBQUFBQUFBQUFLUHF4eWJRQUEKCUFBdEFRQUFBQUFBQUREK0FBQUFBQUFBTlFB
+        QUFBQUFBQUE1QUFBQUFBQUFBRDBFZmM5b0FBQUFRQUFBQUFBQUFBQkUvCglBQUFBQUFBQUVnQUFBQUFBQUFBVFA0QUFBQUFBQUJSQUFBQUFBQUFBRlVBQUFBQUFBQUFX
+        UVI5ejJnQUFBQmNBQUFBQQoJQUFBQUdEOEFBQUFBQUFBWkFBQUFBQUFBQUJvL2dBQUFBQUFBRzBBQUFBQUFBQUFjUUFBQUFBQUFBQjFCSDNQYUFBQUEKCUhnQUFBQUFB
+        QUFBZlB3QUFBQUFBQUNBQUFBQUFBQUFBSVQrQUFBQUFBQUFpUUFBQUFBQUFBQ05BQUFBQUFBQUFKRUVmCgljOW9BQUFBbEFBQUFBQUFBQUNZL0FBQUFBQUFBSndBQUFB
+        QUFBQUFvUDRBQUFBQUFBQ2xBQUFBQUFBQUFLa0FBQUFBQQoJQUFBclFSOXoyZ0FBQUN3QUFBQUFBQUFBTFQ4QUFBQUFBQUF1QUFBQUFBQUFBQzgvZ0FBQUFBQUFNRUFB
+        QUFBQUFBQXgKCVFBQUFBQUFBQURKQkgzUGFBQUFBTXdBQUFBQUFBQUEwUHdBQUFBQUFBRFVBQUFBQUFBQUFOaitBQUFBQUFBQTNRQUFBCglBQUFBQURoQUFBQUFBQUFB
+        T1VFZmM5b0FBQUE2QUFBQUFBQUFBRHMvQUFBQUFBQUFQQUFBQUFBQUFBQTlQNEFBQUFBQQoJQUQ1QUFBQUFBQUFBUDBBQUFBQUFBQUJBUVI5ejJnQUFBRUVBQUFBQUFB
+        QUFRajhBQUFBQUFBQkRBQUFBQUFBQUFFUS8KCWdBQUFBQUFBUlVBQUFBQUFBQUJHUUFBQUFBQUFBRWRCSDNQYUFBQUFTQUFBQUFBQUFBQkpQd0FBQUFBQUFFb0FBQUFB
+        CglBQUFBU3orQUFBQUFBQUJNUUFBQUFBQUFBRTFBQUFBQUFBQUFUa0VmYzlvQUFBQlBBQUFBQUFBQUFGQS9BQUFBQUFBQQoJVVFBQUFBQUFBQUJTUDRBQUFBQUFBRk5B
+        QUFBQUFBQUFWRUFBQUFBQUFBQlZRUjl6MmdBQUFGWUFBQUFBQUFBQVZ6OEEKCUFBQUFBQUJZQUFBQUFBQUFBRmsvZ0FBQUFBQUFXa0FBQUFBQUFBQmJRQUFBQUFBQUFG
+        eEJIM1BhQUFBQVhRQUFBQUFBCglBQUJlUHdBQUFBQUFBRjhBQUFBQUFBQUFZRCtBQUFBQUFBQmhRQUFBQUFBQUFHSkFBQUFBQUFBQVkwRWZjOW9BQUFCawoJQUFBQUFB
+        QUFBR1UvQUFBQUFBQUFaZ0FBQUFBQUFBQm5QNEFBQUFBQUFHaEFBQUFBQUFBQWFVQUFBQUFBQUFCcVFSOXoKCTJnQUFBR3NBQUFBQUFBQUFiRDhBQUFBQUFBQnRBQUFB
+        QUFBQUFHNC9nQUFBQUFBQWIwQUFBQUFBQUFCd1FBQUFBQUFBCglBSEZCSDNQYUFBQUFjZ0FBQUFBQUFBQnpQd0FBQUFBQUFIUUFBQUFBQUFBQWRUK0FBQUFBQUFCMlFB
+        QUFBQUFBQUhkQQoJQUFBQUFBQUFlRUVmYzlvQUFBQjVBQUFBQUFBQUFIby9BQUFBQUFBQWV3QUFBQUFBQUFCOFA0QUFBQUFBQUgxQUFBQUEKCUFBQUFma0FBQUFBQUFB
+        Qi9RUjl6MmdBQUFJQUFBQUFBQUFBQWdUOEFBQUFBQUFDQ0FBQUFBQUFBQUlNL2dBQUFBQUFBCgloRUFBQUFBQUFBQ0ZRQUFBQUFBQUFJWkJIM1BhQUFBQWh3QUFBQUFB
+        QUFDSVB3QUFBQUFBQUlrQUFBQUFBQUFBaWorQQoJQUFBQUFBQ0xRQUFBQUFBQUFJeEFBQUFBQUFBQWpVRWZjOW9BQUFDT0FBQUFBQUFBQUk4L0FBQUFBQUFBa0FBQUFB
+        QUEKCUFBQ1JQNEFBQUFBQUFKSkFBQUFBQUFBQWswQUFBQUFBQUFDVVFSOXoyZ0FBQUpVQUFBQUFBQUFBbGo4QUFBQUFBQUNYCglBQUFBQUFBQUFKZy9nQUFBQUFBQW1V
+        QUFBQUFBQUFDYVFBQUFBQUFBQUp0QkgzUGFBQUFBbkFBQUFBQUFBQUNkUHdBQQoJQUFBQUFKNEFBQUFBQUFBQW56K0FBQUFBQUFDZ1FBQUFBQUFBQUtGQUFBQUFBQUFB
+        b2tFZmM5b0FBQUNqQUFBQUFBQUEKCUFLUS9BQUFBQUFBQXBRQUFBQUFBQUFDbVA0QUFBQUFBQUtkQUFBQUFBQUFBcUFBQUFBQUFBQUNwUDRBQUFBQUFBS29BCglBQUFB
+        QUFBQXF6K0FBQUFBQUFDc3ZpcXFxQUFBQUswQUFBQUFBQUFBcmdBQUFBQUFBQUN2QUFBQUFBQUFBTEFBQUFBQQoJQUFBQXNUK0FBQUFBQUFDeVA0QUFBQUFBQUxNQUFB
+        QUFBQUFBdEQrQUFBQUFBQUMxUDRBQUFBQUFBTFpBQUFBQUFBQUEKCXQwQkFBQUFBQUFDNEFBQUFBQUFBQUxrL2dBQUFBQUFBdWtBQUFBQUFBQUM3QUFBQUFBQUFBTHkv
+        Z0FBQUFBQUF2UUFBCglBQUE9Cgk8L2RhdGE+Cgk8a2V5Pm1hbnVmYWN0dXJlcjwva2V5PgoJPGludGVnZXI+MTE4MDc4NzI3MDwvaW50ZWdlcj4KCTxrZXk+bmFtZTwv
+        a2V5PgoJPHN0cmluZz5EZWZhdWx0IFNldHRpbmc8L3N0cmluZz4KCTxrZXk+c3VidHlwZTwva2V5PgoJPGludGVnZXI+MTE3OTcyNjQ0ODwvaW50ZWdlcj4KCTxrZXk+
+        dHlwZTwva2V5PgoJPGludGVnZXI+MTYzNTA4NTY3MDwvaW50ZWdlcj4KCTxrZXk+dmVyc2lvbjwva2V5PgoJPGludGVnZXI+MDwvaW50ZWdlcj4KPC9kaWN0Pgo8L3Bs
+        aXN0PgoBAAAAAAAAAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {EE931804-D3FB-874A-81F0-A4AA22656761}
+      <PARMENV 9:9 -30 30 0
+        ACT 1 -1
+        VIS 1 1 1
+        LANEHEIGHT 0 0
+        ARM 1
+        DEFSHAPE 0 -1 -1
+        PT 0 0 0
+        PT 3351.31471083 0 0
+        PT 3368.66708752 3 0
+        PT 3407.05264807 3 0
+        PT 3425.45668395 0 0 0 1
+      >
+      WAK 0
+      BYPASS 0 0 0
+      <AU "AU: FF Pro-L (FabFilter)" "FabFilter: FF Pro-L" "" 1635085670 1179667570 1180787270
+        6QMAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAA6wIAADw/eG1sIHZlcnNpb249IjEuMCIgZW5jb2Rpbmc9IlVURi04Ij8+CjwhRE9D
+        VFlQRSBwbGlzdCBQVUJMSUMgIi0vL0FwcGxlLy9EVEQgUExJU1QgMS4wLy9FTiIgImh0dHA6Ly93d3cuYXBwbGUuY29tL0RURHMvUHJvcGVydHlMaXN0LTEuMC5kdGQi
+        Pgo8cGxpc3QgdmVyc2lvbj0iMS4wIj4KPGRpY3Q+Cgk8a2V5PkZhYkZpbHRlckZsYWdzPC9rZXk+Cgk8aW50ZWdlcj4xPC9pbnRlZ2VyPgoJPGtleT5kYXRhPC9rZXk+
+        Cgk8ZGF0YT4KCUFBQUFBQUFBQUFBQUFBQVRBQUFBQUFBQUFBQUFBQUFCQUFBQUFBQUFBQUpBb0FBQUFBQUFBejdMbHQwQUFBQUVQdFhpCglhUUFBQUFVL0dabWFBQUFB
+        QmorQUFBQUFBQUFIQUFBQUFBQUFBQWdBQUFBQUFBQUFDVUFBQUFBQUFBQUtBQUFBQUFBQQoJQUFzQUFBQUFBQUFBREQrQUFBQUFBQUFOQUFBQUFBQUFBQTQvZ0FBQUFB
+        QUFEeitBQUFBQUFBQVFQNEFBQUFBQUFCRS8KCWdBQUFBQUFBRWdBQUFBQT0KCTwvZGF0YT4KCTxrZXk+bWFudWZhY3R1cmVyPC9rZXk+Cgk8aW50ZWdlcj4xMTgwNzg3
+        MjcwPC9pbnRlZ2VyPgoJPGtleT5uYW1lPC9rZXk+Cgk8c3RyaW5nPkRlZmF1bHQgU2V0dGluZzwvc3RyaW5nPgoJPGtleT5zdWJ0eXBlPC9rZXk+Cgk8aW50ZWdlcj4x
+        MTc5NjY3NTcwPC9pbnRlZ2VyPgoJPGtleT50eXBlPC9rZXk+Cgk8aW50ZWdlcj4xNjM1MDg1NjcwPC9pbnRlZ2VyPgoJPGtleT52ZXJzaW9uPC9rZXk+Cgk8aW50ZWdl
+        cj4wPC9pbnRlZ2VyPgo8L2RpY3Q+CjwvcGxpc3Q+CgEAAAAAAAAAAAA=
+      >
+      FLOATPOS 0 0 0 0
+      FXID {E58ABF0D-1E39-3E4D-8A81-1DF4D81BFFB1}
+      <PARMENV 0:0 0 30 15
+        ACT 1 -1
+        VIS 1 1 1
+        LANEHEIGHT 0 0
+        ARM 1
+        DEFSHAPE 0 -1 -1
+        PT 0 0 0
+        PT 3212.64199343 0 0
+        PT 3232.82620991 0.23950455 0
+        PT 3232.82670991 0 0
+        PT 3306.61919512 0 4
+        PT 3349.73722204 10.5 0
+        PT 3409.15596645 10.5 3
+        PT 3441.23157185 0 2
+        PT 3492.18421648 5.7 0
+        PT 3588.18421648 5.7 2 0 1
+        PT 3652.18421648 6.45 0
+        PT 3768.33622492 6.45 0
+        PT 3768.33672492 6.30296143 0
+        PT 3781.33672492 6.45 0
+      >
+      WAK 0
+    >
+    <ITEM
+      POSITION 2691
+      SNAPOFFS 0
+      LENGTH 215.768053145679
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 83.181406 0 4 0 1
+      FADEOUT 2 0.01 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {CCB14AF8-BC4C-F345-B2D4-2BBEC956A695}
+      IID 101
+      NAME "QDM elec redux.wav"
+      VOLPAN 1 0 3.904835 -1
+      SOFFS 2640.864734318367
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8A11D080-D312-2046-B5AF-55CEDCD3620B}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/QDM elec redux.wav"
+      >
+    >
+    <ITEM
+      POSITION 3232.8267099143732
+      SNAPOFFS 0
+      LENGTH 535.50951500981773
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 19.58664 0 4 0 1
+      FADEOUT 2 0.01 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {C0F1B36D-CB55-9346-BDD5-EE0F2F620B2F}
+      IID 116
+      NAME "QDM elec redux.wav"
+      VOLPAN 1 0 2.818358 -1
+      SOFFS 2941.6327874640447
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {135DE4A1-E588-6C40-B7DA-A7D67D25316F}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/QDM elec redux.wav"
+      >
+    >
+    <ITEM
+      POSITION 3997.8827245563866
+      SNAPOFFS 0
+      LENGTH 141.02905807035813
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 5 116.435206 0 5 0 0
+      FADEOUT 2 0.01 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {9C45B305-658B-4F48-B1D7-A22970FF8429}
+      IID 118
+      NAME "QDM elec redux.wav"
+      VOLPAN 1 0 4.015978 -1
+      SOFFS 3477.1423024738601
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C19C7AA7-37EF-3442-9C0B-5DE21B1E7FAF}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/QDM elec redux.wav"
+      >
+    >
+  >
+  <TRACK {3C095A68-B7E0-064B-BE01-3FF3D18DBB86}
+    NAME "QDM instr sum"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {3C095A68-B7E0-064B-BE01-3FF3D18DBB86}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 0 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0.35481339 0
+      PT 3212.64199343 0.35481339 0
+      PT 3232.82620991 0.34700511 0
+      PT 3232.82670991 0.35481339 0
+      PT 3416.18421648 0.35481339 2 0 1
+      PT 3488.18421648 0.13481339 0
+      PT 3768.33622492 0.13481339 0
+      PT 3768.33672492 0.13984245 0
+      PT 3781.33672492 0.13481339 0
+    >
+    <FXCHAIN
+      WNDRECT 180 -135 719 356
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <AU "AU: iZotope RX 4 Declicker (iZotope)" "iZotope: iZotope RX 4 Declicker" "" 1635083896 1517171787 1767535728
+        6QMAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAjQIAADw/eG1sIHZlcnNpb249IjEuMCIgZW5jb2Rpbmc9IlVURi04Ij8+CjwhRE9D
+        VFlQRSBwbGlzdCBQVUJMSUMgIi0vL0FwcGxlLy9EVEQgUExJU1QgMS4wLy9FTiIgImh0dHA6Ly93d3cuYXBwbGUuY29tL0RURHMvUHJvcGVydHlMaXN0LTEuMC5kdGQi
+        Pgo8cGxpc3QgdmVyc2lvbj0iMS4wIj4KPGRpY3Q+Cgk8a2V5PmRhdGE8L2tleT4KCTxkYXRhPgoJYzFOREFBSUFBQUIrQUFBQUtnQUFBQUVBQUFBQUFLREFBQUFBUUVB
+        QUFBQUFBQUFBQUFBQUFBQUFBQUNnUUFBQVNFTUEKCUFBQUFBQUFBQUNvQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJB
+        UUFBCglBQUFFQUFBQUFBQUFBQWtBQUFBQUFBQUFBQUFBQUFBSkFBQUFBQUFBQUFBQUFBQUEKCTwvZGF0YT4KCTxrZXk+bWFudWZhY3R1cmVyPC9rZXk+Cgk8aW50ZWdl
+        cj4xNzY3NTM1NzI4PC9pbnRlZ2VyPgoJPGtleT5uYW1lPC9rZXk+Cgk8c3RyaW5nPlVudGl0bGVkPC9zdHJpbmc+Cgk8a2V5PnN1YnR5cGU8L2tleT4KCTxpbnRlZ2Vy
+        PjE1MTcxNzE3ODc8L2ludGVnZXI+Cgk8a2V5PnR5cGU8L2tleT4KCTxpbnRlZ2VyPjE2MzUwODM4OTY8L2ludGVnZXI+Cgk8a2V5PnZlcnNpb248L2tleT4KCTxpbnRl
+        Z2VyPjA8L2ludGVnZXI+CjwvZGljdD4KPC9wbGlzdD4KAQAAAAAAAAAAAA==
+      >
+      FLOATPOS 0 0 0 0
+      FXID {A6EB4CA5-FB3E-5C4F-B538-2A620335B001}
+      WAK 0
+    >
+    <ITEM
+      POSITION 2696.6210837988619
+      SNAPOFFS 0
+      LENGTH 210.14696934681706
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 97.779531 0 4 0 1
+      FADEOUT 4 52.813531 0 4 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {8BC73605-28DC-6740-AED6-0E929F8914FA}
+      IID 100
+      NAME "QDM instr sum.wav"
+      VOLPAN 0.55 0 1.381716 -1
+      SOFFS 2646.4858181172299
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {726A6E11-E860-4C4A-9FD3-7420C17C5852}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/QDM instr sum.wav"
+      >
+    >
+    <ITEM
+      POSITION 3232.8267099143732
+      SNAPOFFS 0
+      LENGTH 185.78915327766299
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 19.196205 0 4 0 1
+      FADEOUT 1.1 0.01 3.753023 4 1 0
+      MUTE 0
+      SEL 0
+      IGUID {08FCBB00-7D96-3842-BB82-ABB8A73D3FCF}
+      IID 117
+      NAME "QDM instr sum.wav"
+      VOLPAN 1 0 2.496967 -1
+      SOFFS 2941.6327874640456
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {611E06C3-6504-9F44-B473-F5A1567D4A1A}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/QDM instr sum.wav"
+      >
+    >
+    <ITEM
+      POSITION 3414.8628403910593
+      SNAPOFFS 0
+      LENGTH 353.4733845331325
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 3.753023 4 1 0
+      FADEOUT 4 75.896475 0 4 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {BC95D4C9-A1CF-F04E-BF1A-CA9D281437F2}
+      IID 384
+      NAME "QDM instr sum.wav"
+      VOLPAN 0.35 0 1.280721 -1
+      SOFFS 3123.6689179407308
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9ED76E71-649F-2F4A-8AB9-680618E7F0FC}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/QDM instr sum.wav"
+      >
+    >
+    <ITEM
+      POSITION 3997.8827245563866
+      SNAPOFFS 0
+      LENGTH 141.02905807035995
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 72.080262 0 4 0 1
+      FADEOUT 2 0.01 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {643475B1-77CD-3F4A-9A14-53E3FFA7FF26}
+      IID 119
+      NAME "QDM instr sum.wav"
+      VOLPAN 1 0 1.336037 -1
+      SOFFS 3477.142302473861
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1A85E17A-EBF5-AB4B-8046-13AE6C6B7101}
+      <SOURCE WAVE
+        FILE "/Volumes/1T/temp files make space/QDM instr sum.wav"
+      >
+    >
+  >
+  <TRACK {3C162B7C-A608-384A-A1A9-87150AD76126}
+    NAME "OUT 1 2"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {3C162B7C-A608-384A-A1A9-87150AD76126}
+    PERF 0
+    AUXRECV 1 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    AUXRECV 2 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    AUXRECV 9 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    AUXRECV 10 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    AUXRECV 14 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 0 0
+    HWOUT 1024 0 1 -1 0 0 0 -1:U -1
+    HWOUT 1026 0 1 1 0 0 0 -1:U -1
+  >
+  <TRACK {24F86F13-4CE6-2043-A433-2056CC217917}
+    NAME "OUT 3 4"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {24F86F13-4CE6-2043-A433-2056CC217917}
+    PERF 0
+    AUXRECV 3 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    AUXRECV 4 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    AUXRECV 12 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    AUXRECV 16 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 0 0
+    HWOUT 1028 0 1 -1 0 0 0 -1:U -1
+    HWOUT 1030 0 1 1 0 0 0 -1:U -1
+  >
+  <TRACK {42C15495-0B7D-FB40-964B-2481CAAA7F3C}
+    NAME "OUT 5 6"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {42C15495-0B7D-FB40-964B-2481CAAA7F3C}
+    PERF 0
+    AUXRECV 5 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    AUXRECV 6 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    AUXRECV 10 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    AUXRECV 13 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    AUXRECV 17 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 0 0
+    HWOUT 1032 0 1 -1 0 0 0 -1:U -1
+    HWOUT 1034 0 1 1 0 0 0 -1:U -1
+  >
+  <TRACK {4FF45D08-3C48-8641-928B-6FC53C8196BB}
+    NAME "OUT 7 8"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {4FF45D08-3C48-8641-928B-6FC53C8196BB}
+    PERF 0
+    AUXRECV 7 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    AUXRECV 8 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    AUXRECV 11 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    AUXRECV 15 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 0 0
+    HWOUT 1036 0 1 -1 0 0 0 -1:U -1
+    HWOUT 1038 0 1 1 0 0 0 -1:U -1
+  >
+  <TRACK {FE55DD36-C60F-DF4A-9A8A-145ACF6CDB88}
+    NAME "SYNC AUDIO"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {FE55DD36-C60F-DF4A-9A8A-145ACF6CDB88}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 0 0
+    HWOUT 1055 0 1 0 0 0 0 -1:U -1
+  >
+>
