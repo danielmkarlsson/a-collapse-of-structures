@@ -1,9 +1,5 @@
-s.boot
-s.meter
-
-s.record(numChannels: 8);
-
 (
+s.waitForBoot {
 SynthDef(\phaseMod, {
 	|
 	sustain, gate=1, pan, amp = 0.1, lforate = 1, lfodepth = 1, sinrate = 1, sindepth = 1, out = 0,
@@ -43,9 +39,9 @@ SynthDef(\sum, {|
 	sound = sound * env;
 	Out.ar(0,sound)
 }).add;
-)
 
-(
+s.sync;
+
 t = Tuning.et12;
 Routine{
 	999.do{
@@ -96,15 +92,16 @@ Pdef(
 		\root, Pstutter(125, Pwrand([1, 7],[1, 1/16].normalizeSum, inf)),
 		\octave, Pstutter(Pwhite(26, 51, inf), Pwrand([1,2,3,4,5,6],[1/32,1/16,1/4,1/2,1/8,1/64].normalizeSum, inf)),
 		\degree, Pstutter(Pwhite(27, 169, inf), Pxshuf([0,1,2,3,4,6,7,8,10], inf)),
-		//\pan, Prand([ Pwhite(-1.0, -0.25, 1), Pwhite(0.25, 1.0, 1) ], inf),
+		\pan, Prand([Pwhite(-1.0, -0.25, 1), Pwhite(0.25, 1.0, 1)], inf).trace,
 		//\pan, Prand([0,2,4,6,8,10,12,14], inf),
 		\lforate, 0.3,
 		\lfodepth, 0,
-		//\out, Pser([0, 2, 4, 6, 8],inf)
-		\out, 50 + Pser([
-			0, 1, 2, 3, 4, 5, 6, 7, 8
-		],inf)
+		//\out, Pser([0, 2, 4, 6],inf)
+		//\out, 50 + Pser([0, 1, 2, 3, 4, 5, 6, 7, 8],inf)
+		\out, 0,
 	);
 )).play;
+}
 );
 
+//s.record(numChannels: 8);
